@@ -9,6 +9,10 @@
 *.sdf
 *.sln
 *.opensdf
+*.vcxproj
+*.filters
+*.jpg
+*.txt
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
